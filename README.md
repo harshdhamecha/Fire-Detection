@@ -44,3 +44,6 @@ Again, all correctly classified. Note that the second image is of the sun which 
 
 ### ROC-AUC Curve
 ![](Results/roc-auc-curve.PNG)
+
+## Limitations and Future Scope
+Our dataset consists of the images in which large portion of it is of fire. So this model fails in detecting a small portion of fire in an image. Furthermore, This model might fails if we deploy this model using a street-camera as our dataset consists of the high resolution images and that's not the case in a real life scenario. 
