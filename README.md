@@ -1,5 +1,5 @@
 # Fire-Detection
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harshdhamecha/Fire-Detection/blob/main/Fire-Detector.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harshdhamecha/Fire-Detection/blob/main/Notebook/Fire-Detector.ipynb)  
 
 This repo consists of the Fire Detection project, gives 0.96 ROC-AUC score using MobileNetV2. 
 
